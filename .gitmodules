@@ -1,0 +1,4 @@
+[submodule "kernel/linux"]
+	path = kernel/linux
+	url = git@github.com:ammrat13/linux.git
+	branch = "lkml/linux-rdma/20260908154454.10966-1-ammrat13@gmail.com"
